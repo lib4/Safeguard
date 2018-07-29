@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d32e10</color>
+    <color name="colorPrimaryDark">#CCd32e10</color>
+    <color name="colorAccent">#AAD81B60</color>
+    <color name="circle_overlay">#AACCCCCC</color>
+    <color name="safeguard_red_color">#C60C30</color>
+    <color name="white">#FFFFFF</color>
+</resources>
